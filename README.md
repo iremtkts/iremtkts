@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+ ![](https://komarev.com/ghpvc/?username=your-github-iremtkts&color=ff69b4) 
 
 I'm İREM 
 
@@ -12,7 +13,7 @@ I'm İREM
   </a>&nbsp;&nbsp;
 
 
- ![](https://komarev.com/ghpvc/?username=your-github-iremtkts&color=ff69b4) 
+
 
 
 
