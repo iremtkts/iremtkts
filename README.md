@@ -1,10 +1,6 @@
- ![](https://komarev.com/ghpvc/?username=your-github-iremtkts&color=ff69b4) 
-
-
 
 ### Hi there 👋                                                                                  
 
- 
 
 I'm İREM 
 
@@ -16,6 +12,13 @@ I'm İREM
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 
+ 
+ 
+ 
+ 
+ 
+ 
+ ![](https://komarev.com/ghpvc/?username=your-github-iremtkts&color=ff69b4) 
 
 
 
