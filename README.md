@@ -10,12 +10,8 @@ I'm İREM
   <a href="https://www.linkedin.com/in/irem-tekta%C5%9F-721509202/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  
-</p>
 
-<p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=iremtkts.iremtkts"></a>
-</p>
+ ![](https://komarev.com/ghpvc/?username=your-github-iremtkts&color=green)
 
 
 
