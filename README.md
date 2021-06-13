@@ -12,8 +12,8 @@ I'm İREM
   </a>&nbsp;&nbsp;
 
  
- <p align='center'
- ![](https://komarev.com/ghpvc/?username=your-github-iremtkts&color=ff69b4) >
+ <p align='center'>
+ ![](https://komarev.com/ghpvc/?username=your-github-iremtkts&color=ff69b4) 
 
 
 
